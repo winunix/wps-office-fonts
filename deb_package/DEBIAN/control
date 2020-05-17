@@ -1,0 +1,10 @@
+Package: wps-office-fonts
+Version: 0.0.1
+Installed-Size: 395
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: fonts
+Architecture: all
+Priority: optional
+Homepage: https://github.com/wps-community
+Description: TTF Fonts to WPS Office.
+ This package provides fonts mtextra, symbol, WEBDINGS and wingding.
